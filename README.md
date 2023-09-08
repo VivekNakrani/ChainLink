@@ -52,6 +52,7 @@ Follow these steps to set up and run DecentTweet on your local machine:
 
 1. Start the dApp: `npm run dev`
 2. Open your web browser and access the dApp at [http://localhost:3000](http://localhost:3000)
+3. To Use features of this app, You need some testfunds and Account with lens. Go to this link and create an account for yourself: https://lens-do-it.vercel.app/
 
 [Include any additional setup instructions, configuration details, or usage guidelines.]
 
