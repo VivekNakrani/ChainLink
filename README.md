@@ -42,7 +42,7 @@ This is link to my write-up on mirror: https://mirror.xyz/0x29054eBcf5d36B7dFc87
 
 ## Getting Started
 
-Follow these steps to set up and run DigiWalletHub on your local machine:
+Follow these steps to set up and run DecentTweet on your local machine:
 
 1. Clone this repository: `git clone [repository URL]`
 2. Navigate to the project directory: `cd ChainLink`
@@ -57,7 +57,7 @@ Follow these steps to set up and run DigiWalletHub on your local machine:
 
 ## Contributing
 
-We welcome contributions to DigiWalletHub! If you'd like to contribute, please follow these steps:
+We welcome contributions to DecentTweet! If you'd like to contribute, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch: `git checkout -b feature/your-feature-name`
@@ -65,4 +65,4 @@ We welcome contributions to DigiWalletHub! If you'd like to contribute, please f
 4. Push to the branch: `git push origin feature/your-feature-name`
 5. Open a pull request.
 
-Thank you for using DigiWalletHub!
+Thank you for using DecentTweet!
